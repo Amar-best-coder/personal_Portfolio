@@ -1,28 +1,37 @@
-Live Preview
+Personal Portfolio
 
-Your portfolio website is now live at:
+A modern, responsive portfolio website to showcase my projects and skills. Built with HTML, CSS, and JavaScript.
 
-https://Amar-Best-Coder.github.io/personalportfolio
+Features
 
-To view your site:
+· Clean, responsive design
+· Project showcase section
+· Interactive elements
+· Fast loading
 
-1. Replace yourusername with your actual GitHub username
-2. Paste the URL into any web browser
-3. Your portfolio will load immediately
+Live Demo
 
-To enable if not working:
+https://Amar-best-coder.github.io/personalportfolio
 
-1. Go to repository Settings
-2. Select Pages from left menu
-3. Under Source, choose: Branch: main → Folder: /(root)
-4. Click Save → Wait 2 minutes
+Project Structure
 
-To update your site:
+· index.html - Main page
+· style.css - Primary styles
+· style2.css - Additional styles
+· script.js - Interactive features
+· images/ - All image assets
 
-1. Edit files in Spck Editor
-2. Re-upload to GitHub
-3. Changes go live in 1-2 minutes
+Technologies
 
-Share this link:
+· HTML5
+· CSS3
+· JavaScript
 
-https://Amar-Best-Coder.github.io/personalportfolio
+Getting Started
+
+1. Open index.html in any browser
+2. Or visit the live link above
+
+---
+
+Created with attention to detail and modern web standards.
