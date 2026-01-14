@@ -1,4 +1,7 @@
+
 Personal Portfolio
+
+
 Welcome to my professional portfolio website. This project showcases my skills, projects, and experience as a web developer, built with modern web technologies and a focus on clean design.
 Features
 
@@ -15,11 +18,11 @@ Tech Stack
 Project Structure
 
 personalportfolio/
-├── index.html          # Main landing page
-├── style.css           # Primary stylesheet
-├── style2.css          # Additional styles/features
-├── script.js           # Interactive JavaScript
-└── images/             # All image assets
+├── index.html       
+├── style.css         
+├── style2.css          
+├── script.js           
+└── images/             
 
 Getting Started
 View the live site: https://[ ].github.io/personalportfolio/
